@@ -1,0 +1,32 @@
+#########################################################################
+#                                  Set prueba
+# 
+# Different Instruments / number of samples for each instrument
+# MIGUEL NOTA!! SI QUIERES CAMBIAR LA ENTRADA, OSEA LO DE LOS ARMONICOS
+# TIENES QUE PONER UN ESPACIO AL FINAL DE PONER TODOS LOS NUMEROS, O SI NO
+# EL PARSER DE ESTE FICHERO NO LO VA A LEER BIEN
+#########################################################################
+
+Instrument: cero
+Harmonics:
+1 0 
+Output:
+1
+
+Instrument: cero
+Harmonics:
+0 1 
+Output:
+1
+
+Instrument: cero
+Harmonics:
+0 0 
+Output:
+0
+
+Instrument: cero
+Harmonics:
+1 1 
+Output:
+0
