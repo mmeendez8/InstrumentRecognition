@@ -1,2 +1,1 @@
-# instrument_recogn_DNN
-Instrument recognition using Neural Networks
+# Instrument recognition using Deep Neural Network
