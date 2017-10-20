@@ -1,4 +1,4 @@
-# Instrument recognition using Deep Neural Network
+# Instrument recognition using Neural Networks
 
 ## Introduction
 
